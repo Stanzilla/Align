@@ -1,5 +1,5 @@
-## Interface: 70100
-## Title: Align
+## Interface: 70200
+## Title: Align vStan
 ## Author: Akeru/Amadeo (swyatt@gmail.com)
 ## Notes: Grid to Align UI elements.
 
